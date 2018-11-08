@@ -1,3 +1,3 @@
 # udf-challenge
 
-Projeto do Marinho
+Projeto criado para apresentar ao professor Edjeson Marinho, que leciona Técnicas de Desenvolvimento de ALgoritmos na UDF.
