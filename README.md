@@ -1,3 +1,3 @@
 # udf-challenge
 
-Projeto criado para apresentar ao professor Edjeson Marinho, que leciona Técnicas de Desenvolvimento de Algoritmos na UDF.
+Projeto a ser apresentado para o professor Marinho, para obtenção da nota da matéria de TDA (Técnicas de Desenvolvimento de Algoritmo).
