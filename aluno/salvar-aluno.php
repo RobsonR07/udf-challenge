@@ -16,7 +16,7 @@
 
             if($res==true){
                 print"<br/><div class='alert alert-success col-6 mx-auto' role='alert' style='margin-top:15%; margin-bottom: 10%;'>
-                Cadastro Realizado com sucesso! <br/><a href='index.php?page=aluno' class='alert-link'>Clique aqui</a>, Para realizar login!
+                Cadastro Realizado com sucesso! <br/><a href='index.php?page=aluno' class='alert-link'>Clique aqui</a> para fazer login!
             </div>";
             }else{ 
                 print"<br/><div class='alert alert-danger col-6 mx-auto' role='alert' style='margin-top:15%; margin-bottom: 15%;'>
